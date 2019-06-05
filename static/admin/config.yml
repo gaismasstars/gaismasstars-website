@@ -17,7 +17,7 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Tags", name: "tags", widget: "list"}
+  
   - name: "pakalpojumi"
     label: "Pakalpojumi"
     folder: "src/pages/pakalpojumi"
@@ -29,8 +29,7 @@ collections:
       # - {label: "Publish Date", name: "date", widget: "datetime"}
       # - {label: "Description", name: "description", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
-      # - {label: "Tags", name: "tags", widget: "list"}
-
+    
   - name: "pages"
     label: "Lapas"
     files:

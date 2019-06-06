@@ -11,8 +11,8 @@ class BlogRoll extends React.Component {
       <div className="columns is-multiline">
         {posts &&
           posts.map(({ node: post }) => (
-            <div className="is-parent column is-6" key={post.id}>
-              <article className="tile is-child box notification">
+            <div className="is-parent column is-4" key={post.id}>
+              <article className="tile is-child ">
                 <p>
                   <Link
                     className="title has-text-primary is-size-4"
@@ -29,9 +29,9 @@ class BlogRoll extends React.Component {
                   {post.excerpt}
                   <br />
                   <br />
-                  <Link className="button" to={post.fields.slug}>
-                    Keep Reading →
-                  </Link>
+                  {/* <Link className="btn has-text-centered" to={post.fields.slug}>
+                    Vairāk →
+                  </Link> */}
                 </p>
               </article>
             </div>

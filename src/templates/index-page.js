@@ -69,20 +69,20 @@ export const IndexPageTemplate = ({
           <div className="columns">
             <div className="column is-10 is-offset-1">
 
-    
+                <hr/>
                 <div className="column is-12">
                   <h3 className="has-text-centered has-text-weight-semibold is-size-2">
                     Aktualitātes
                   </h3>
                   <BlogRoll />
                   <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/blog">
-                      Vairāk
+                    <Link className="btn" to="/aktualitates">
+                      Lasīt Vairāk
                     </Link>
                   </div>
                 </div>
 
-                <Features gridItems={intro.blurbs} />
+                {/* <Features gridItems={intro.blurbs} />
 
                 <div className="columns">
                 <div className="column is-12 has-text-centered">
@@ -90,7 +90,7 @@ export const IndexPageTemplate = ({
                     See all products
                   </Link>
                 </div>
-              </div>
+              </div> */}
               </div>
             </div>
           </div>

@@ -69,7 +69,7 @@ export const IndexPageTemplate = ({
           <div className="columns">
             <div className="column is-10 is-offset-1">
 
-                <hr/>
+
                 <div className="column is-12">
                   <h3 className="has-text-centered has-text-weight-semibold is-size-2">
                     Aktualitātes
@@ -81,7 +81,7 @@ export const IndexPageTemplate = ({
                     </Link>
                   </div>
                 </div>
-
+                <hr/>
                 {/* <Features gridItems={intro.blurbs} />
 
                 <div className="columns">

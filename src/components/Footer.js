@@ -103,7 +103,7 @@ const Footer = class extends React.Component {
                   />
                 </a>
                 <div>
-                  <h2>Jaunumi</h2>
+                  <h2>Piesakies jaunumiem!</h2>
 
                   <MailchimpSubscribe url={url} />
                 </div>

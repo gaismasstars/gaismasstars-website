@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+User-agent: *
+Crawl-delay: 10
+
+Sitemap: http://www.gaismasstars.lv/sitemap.xml

@@ -1,0 +1,17 @@
+
+.col1, .col2, .col3, .cols, .col4 { float:left;}
+
+.col1{ width:259px;}
+.col2{ width:200px;}
+.col3{ width:608px;}
+.col4{ width:553px;}
+.cols{ width:160px;}
+/*======= index.html =======*/
+#page1 .col3{ width:599px;}
+#page1 .col4{ width:240px;}
+#page1 .body4{ background:url(../images/bg_footer.gif) top repeat-x}
+/*======= index-1.html =======*/
+/*======= index-2.html =======*/
+/*======= index-3.html =======*/
+/*======= index-4.html =======*/
+#page5 p{ line-height:20px; padding-bottom:20px;}

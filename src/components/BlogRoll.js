@@ -5,6 +5,7 @@ import { Link, graphql, StaticQuery } from 'gatsby'
 class BlogRoll extends React.Component {
   render() {
     const { data } = this.props
+    
     const { edges: posts } = data.allMarkdownRemark
 
     return (

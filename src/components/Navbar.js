@@ -65,21 +65,21 @@ const Navbar = class extends React.Component {
               </Link> */}
             </div>
             <div className="navbar-end has-text-centered">
-            <NavLink className="navbar-item navbar-item-active" to="/">
+            <Link className="navbar-item navbar-item-active" to="/">
                 Sākums
-              </NavLink>
-              <NavLink className="navbar-item" to="/aktualitates">
+              </Link>
+              <Link className="navbar-item" to="/aktualitates">
                 Aktualitātes
-              </NavLink>
-              <NavLink className="navbar-item" to="/pakalpojumi">
+              </Link>
+              <Link className="navbar-item" to="/pakalpojumi">
                 Pakalpojumi
-              </NavLink>
-              <NavLink className="navbar-item" to="/par-mums">
+              </Link>
+              <Link className="navbar-item" to="/par-mums">
                 Par Mums
-              </NavLink>
-              <NavLink className="navbar-item" to="/kontakti">
+              </Link>
+              <Link className="navbar-item" to="/kontakti">
                 Kontakti
-              </NavLink>
+              </Link>
             </div>
           </div>
         </div>

@@ -1,11 +1,12 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import { graphql } from 'gatsby'
-import Layout from '../components/Layout'
-import Content, { HTMLContent } from '../components/Content'
+import React from "react";
+import PropTypes from "prop-types";
+import { graphql } from "gatsby";
+import Layout from "../components/Layout";
+import Content, { HTMLContent } from "../components/Content";
+import { withGoogleMap, GoogleMap, Marker } from "react-google-maps";
 
-export const ContactPageTemplate = ({ title, content, contentComponent }) => {
-  const ContactPageContent = contentComponent || Content
+export const ContactPageTemplate =  withGoogleMap(({ title, content, contentComponent })  => 
+  const ContactPageContent = contentComponent || Content;
 
   return (
     <section className="section section--gradient">
@@ -21,25 +22,28 @@ export const ContactPageTemplate = ({ title, content, contentComponent }) => {
           </div>
         </div>
 
-  
-  
-          <div className="column is-5 is-offset-2 map">
-            <iframe width='100%' height='100%' id='mapcanvas' src='https://maps.google.com/maps?q=P%C4%93rnavas%20iel%C4%81%2062%20R%C4%ABga&amp;t=&amp;z=15&amp;ie=UTF8&amp;iwloc=&amp;output=embed&language=lv;' frameborder='0' scrolling='no'   gestureHandling='greedy' marginheight='0' marginwidth='0'><div class="zxos8_gm"><a rel="nofollow"  href="https://www.mummy2monkeys.co.uk">Mummy blog</a></div><div className="ovhidden"><div className="hundred" id='gmap_canvas'></div></div></iframe>
-          </div>
-   
+        <div className="column is-5 is-offset-2 map">
+          <GoogleMap
+            defaultZoom={8}
+            defaultCenter={{ lat: -34.397, lng: 150.644 }}
+          >
+            {/* {props.isMarkerShown && (
+              <Marker position={{ lat: -34.397, lng: 150.644 }} />
+            )} */}
+          </GoogleMap>
         </div>
+      </div>
     </section>
   )
-}
 
 ContactPageTemplate.propTypes = {
   title: PropTypes.string.isRequired,
   content: PropTypes.string,
-  contentComponent: PropTypes.func,
-}
+  contentComponent: PropTypes.func
+};
 
 const ContactPage = ({ data }) => {
-  const { markdownRemark: post } = data
+  const { markdownRemark: post } = data;
 
   return (
     <Layout>
@@ -49,14 +53,14 @@ const ContactPage = ({ data }) => {
         content={post.html}
       />
     </Layout>
-  )
-}
+  );
+};
 
 ContactPage.propTypes = {
-  data: PropTypes.object.isRequired,
-}
+  data: PropTypes.object.isRequired
+};
 
-export default ContactPage
+export default ContactPage;
 
 export const ContactPageQuery = graphql`
   query ContactPage($id: String!) {
@@ -67,4 +71,4 @@ export const ContactPageQuery = graphql`
       }
     }
   }
-`
+`;

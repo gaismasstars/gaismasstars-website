@@ -15,7 +15,7 @@ Norises vieta: **Biedrība “Gaismas stars”, Pērnavas iela 62, 3 stāvs, Rī
 
 - - -
 
-Nodarbību vadītājs: **Dr. L.Grauda**
+Nodarbību vadītājs: **Dr. L.Graudassss**
 
 Nodarbību tēmas: 
 

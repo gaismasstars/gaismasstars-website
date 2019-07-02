@@ -9,11 +9,11 @@ Biedrība “Gaismas stars” aicina psihiatrijas pakalpojumu lietotāju tuvinie
 
 Nodarbības notiks: **no 1.septembra līdz 31. oktobrim, reizi nedēļā, plkst. 17.30 (nedēļas diena tiks precizēta)**
 
-
+****
 
 Norises vieta: **Biedrība “Gaismas stars”, Pērnavas iela 62, 3 stāvs, Rīga**
 
-
+****
 
 Nodarbību vadītājs: **Dr. L.Graudassss**
 
@@ -28,7 +28,5 @@ Nodarbību tēmas:
 * Atveseļošanās stadija. 
 
 Aicinām sūtīt pieteikumus dalībai grupā rakstot uz e-pasta adresi: **gaismasstars@inbox.lv** vai zvanīt pa tālruni **67272873**
-
-
 
 _Projektu „Psihiatrijas pakalpojumu lietotāju tuvinieku atbalsta – izglītojošās grupas” atbalsta Rīgas domes Labklājības departaments._

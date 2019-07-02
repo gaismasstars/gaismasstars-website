@@ -29,4 +29,6 @@ Nodarbību tēmas:
 
 Aicinām sūtīt pieteikumus dalībai grupā rakstot uz e-pasta adresi: **gaismasstars@inbox.lv** vai zvanīt pa tālruni **67272873**
 
+****
+
 _Projektu „Psihiatrijas pakalpojumu lietotāju tuvinieku atbalsta – izglītojošās grupas” atbalsta Rīgas domes Labklājības departaments._

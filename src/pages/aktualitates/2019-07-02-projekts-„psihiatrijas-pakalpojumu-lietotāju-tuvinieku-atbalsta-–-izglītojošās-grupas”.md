@@ -9,13 +9,13 @@ date: 2019-07-02T13:24:50.018Z
 
 Nodarbības notiks: **no 1.septembra līdz 31. oktobrim, reizi nedēļā, plkst. 17.30 (nedēļas diena tiks precizēta)**
 
-****
+- - -
 
 Norises vieta: **Biedrība “Gaismas stars”, Pērnavas iela 62, 3 stāvs, Rīga**
 
-****
+- - -
 
-Nodarbību vadītājs: **Dr. L.Grauda**
+Nodarbību vadītājs: **Dr. L.Graudasssss**
 
 Nodarbību tēmas: Psihisko saslimšanu iemesli un attīstība. Šizofrēnija un šizofrēnijas spektra traucējumi. Depresija, bipolāri afektīvie traucējumi. Šizofrēnijas veidi, norise un prognoze. Pašnāvības riska novērtējums. Ārstēšana un rehabilitācija. Atveseļošanās stadija. Patstāvības veidošana ģimenes locekļiem.
 

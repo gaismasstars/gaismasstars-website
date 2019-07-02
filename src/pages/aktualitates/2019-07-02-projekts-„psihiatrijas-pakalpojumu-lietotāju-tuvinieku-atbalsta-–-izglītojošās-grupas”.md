@@ -15,10 +15,20 @@ Norises vieta: **Biedrība “Gaismas stars”, Pērnavas iela 62, 3 stāvs, Rī
 
 - - -
 
-Nodarbību vadītājs: **Dr. L.Graudasssss**
+Nodarbību vadītājs: **Dr. L.Grauda**
 
-Nodarbību tēmas: Psihisko saslimšanu iemesli un attīstība. Šizofrēnija un šizofrēnijas spektra traucējumi. Depresija, bipolāri afektīvie traucējumi. Šizofrēnijas veidi, norise un prognoze. Pašnāvības riska novērtējums. Ārstēšana un rehabilitācija. Atveseļošanās stadija. Patstāvības veidošana ģimenes locekļiem.
+Nodarbību tēmas: 
 
-Pieteikšanās: Aicinām sūtīt pieteikumus dalībai grupā rakstot uz e-pasta adresi: gaismasstars@inbox.lv vai zvanīt pa tālruni 67272873
+* Psihisko saslimšanu iemesli un attīstība.
+* Šizofrēnija un šizofrēnijas spektra traucējumi.
+* Depresija, bipolāri afektīvie traucējumi.
+* Šizofrēnijas veidi, norise un prognoze. 
+* Pašnāvības riska novērtējums.
+* Ārstēšana un rehabilitācija.
+* Atveseļošanās stadija. 
+
+Aicinām sūtīt pieteikumus dalībai grupā rakstot uz e-pasta adresi: **gaismasstars@inbox.lv** vai zvanīt pa tālruni **67272873**
+
+****
 
 Projektu „Psihiatrijas pakalpojumu lietotāju tuvinieku atbalsta – izglītojošās grupas” atbalsta Rīgas domes Labklājības departaments.
